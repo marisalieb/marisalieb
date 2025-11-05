@@ -1,7 +1,7 @@
 # Hi - I’m Marisa 👋
 I design and build tools, plugins, HDAs and shaders in Unreal Engine, Houdini and Maya.
 
-Currently finishing an MSc in Computer Animation & VFX.
+Recently graduated with an MSc in Computer Animation & VFX.
 
 
 
