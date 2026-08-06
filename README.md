@@ -8,6 +8,12 @@ Recently graduated with an MSc in Computer Animation & VFX.
 ---
 
 
+Please add your contacts here !
+
+
+---
+
+
 
 ### 🖥️ Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
